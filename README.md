@@ -11,3 +11,6 @@ Small scripts that modify the material properties on meshes. This is useful beca
 
 ## Coroutine Manager
 Enabled creating coroutines for delayed frame operations
+
+## Profiling
+Control that shows perf graph and metrics with basic instrumentation functionality
