@@ -8,3 +8,6 @@ Changes to the Snap UI framework:
 
 ## Material Helpers
 Small scripts that modify the material properties on meshes. This is useful because modifying properties on material at runtime doesn't increase number of shaders
+
+## Coroutine Manager
+Enabled creating coroutines for delayed frame operations
