@@ -7,10 +7,10 @@
 
 //@input float minDistance = 50
 //@input float rolloffScale = 3.0
-//@input Component.CameraComponent arCamera
+//@input Component.Camera arCamera
 
 var _transform = script.getTransform();
-var _cameraTransform = arCamera.getTransform();
+var _cameraTransform = arCamera.getSceneObject().getTransform();
 var _audio = script.getSceneObject().getComponent("Component.AudioComponent");
 
 var lateUpdateEvent = script.createEvent("LateUpdateEvent");
