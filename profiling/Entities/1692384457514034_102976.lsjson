@@ -1,0 +1,39 @@
+{
+    "1692384457512367:102975": {
+        "IFileManager": {
+            "path": "Files/File_1692384457512367_102975"
+        }
+    },
+    "1692384457514034:102976": {
+        "IResourceController": {
+            "name": "red Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1692384457514045:102977",
+            "fileId": "1692384457512367:102975",
+            "originalId": "1692384457543145:102983",
+            "publicId": "1692384679252692:167251",
+            "expected_hash": "4a4e300ada6a6d6e8482dad72f145bb0"
+        },
+        "IResourceManager": {
+            "uid": "1692384457514045:102977",
+            "name": "Files/File_1692384457512367_102975",
+            "flags": 1
+        }
+    },
+    "1692384457543145:102983": {
+        "IFileManager": {
+            "path": "Files/File_1692384457543145_102983.lsmat"
+        }
+    },
+    "1692384679252692:167251": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/ui/red Graph.lsmat",
+                "hash": "7e0791fabfa5666b85167f6d90208c56"
+            }
+        }
+    }
+}

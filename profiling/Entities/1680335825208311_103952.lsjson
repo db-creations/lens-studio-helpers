@@ -1,0 +1,39 @@
+{
+    "1680335825208311:103952": {
+        "IResourceController": {
+            "name": "ui_line",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664864380487779:10829",
+            "fileId": "1680335825208333:103970",
+            "originalId": "1680335825208336:103973",
+            "publicId": "1692384679261489:167261",
+            "expected_hash": "9a4fe8f1eb9437fd89a909763a7a1a8b"
+        },
+        "IResourceManager": {
+            "uid": "1664864380487779:10829",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1680335825208333:103970": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208333_103970.oprfb"
+        }
+    },
+    "1680335825208336:103973": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208336_103973.oprfb"
+        }
+    },
+    "1692384679261489:167261": {
+        "IResourceController": {
+            "public": {
+                "path": "Prefab/ui/ui_line.oprfb",
+                "hash": "6b151b669adb4d355f1dd6f256ecf6f3"
+            }
+        }
+    }
+}

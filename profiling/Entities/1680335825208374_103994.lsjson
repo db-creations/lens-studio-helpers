@@ -1,0 +1,31 @@
+{
+    "1680335825208322:103959": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208322_103959.hdr"
+        }
+    },
+    "1680335825208374:103994": {
+        "IResourceController": {
+            "name": "Echopark",
+            "type": 9,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1680335825208322:103959",
+            "publicId": "1692384679246325:167246",
+            "expected_hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+            "resources": [
+                "1680335825208309:103942",
+                "1680335825208310:103943"
+            ]
+        }
+    },
+    "1692384679246325:167246": {
+        "IResourceController": {
+            "public": {
+                "path": "Echopark.hdr",
+                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2"
+            }
+        }
+    }
+}

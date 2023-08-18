@@ -1,0 +1,38 @@
+{
+    "1664864380209886:10744": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1680335825208311:103948": {
+        "IResourceController": {
+            "name": "PerfMenuViewLogic",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664864380209886:10744",
+            "fileId": "1680335825208327:103964",
+            "publicId": "1692384679255591:167254",
+            "expected_hash": "5fe295ed3ac56dc1f926e616217f8a6c"
+        },
+        "IResourceManager": {
+            "uid": "1664864380209886:10744",
+            "name": "Files/File_1680335825208327_103964.js",
+            "flags": 1
+        }
+    },
+    "1680335825208327:103964": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208327_103964.js"
+        }
+    },
+    "1692384679255591:167254": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/PerfMenuViewLogic.js",
+                "hash": "5fe295ed3ac56dc1f926e616217f8a6c"
+            }
+        }
+    }
+}

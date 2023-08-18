@@ -1,0 +1,38 @@
+{
+    "1664864478620377:61075": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1680335825208312:103954": {
+        "IResourceController": {
+            "name": "LateLogger",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664864478620377:61075",
+            "fileId": "1680335825208335:103972",
+            "publicId": "1692384679258375:167257",
+            "expected_hash": "ec8a1ad20db53f633505a2aea196e88b"
+        },
+        "IResourceManager": {
+            "uid": "1664864478620377:61075",
+            "name": "Files/File_1680335825208335_103972.js",
+            "flags": 1
+        }
+    },
+    "1680335825208335:103972": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208335_103972.js"
+        }
+    },
+    "1692384679258375:167257": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/LateLogger.js",
+                "hash": "ec8a1ad20db53f633505a2aea196e88b"
+            }
+        }
+    }
+}

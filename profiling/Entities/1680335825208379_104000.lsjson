@@ -1,0 +1,22 @@
+{
+    "1680335825208379:104000": {
+        "IResourceController": {
+            "name": "ui",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1692384679260301:167260",
+            "resources": [
+                "1680335825208311:103952"
+            ]
+        }
+    },
+    "1692384679260301:167260": {
+        "IResourceController": {
+            "public": {
+                "path": "Prefab/ui"
+            }
+        }
+    }
+}

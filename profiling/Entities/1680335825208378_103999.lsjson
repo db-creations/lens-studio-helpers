@@ -1,0 +1,31 @@
+{
+    "1680335825208330:103967": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208330_103967.lsc"
+        }
+    },
+    "1680335825208378:103999": {
+        "IResourceController": {
+            "name": "Gizmo Renderer",
+            "type": 32,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1647394554239998:85027",
+            "originalId": "1680335825208330:103967",
+            "publicId": "1692384679259348:167258",
+            "resources": [
+                "1680335825208311:103950",
+                "1680335825208311:103951"
+            ]
+        }
+    },
+    "1692384679259348:167258": {
+        "IResourceController": {
+            "public": {
+                "path": "Gizmo Renderer.lsc",
+                "hash": "41c1a079f999b7b616b8255225fa73ce"
+            }
+        }
+    }
+}

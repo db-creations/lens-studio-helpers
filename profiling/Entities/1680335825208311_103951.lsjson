@@ -1,0 +1,30 @@
+{
+    "1680335825208311:103951": {
+        "IResourceController": {
+            "name": "Unlit",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": true,
+            "uid": "1664864380288048:10810",
+            "fileId": "1680335825208331:103968",
+            "originalId": "1680335825208332:103969",
+            "expected_hash": "c02c4dd2f0b5a3c33186dc581925a0ee"
+        },
+        "IResourceManager": {
+            "uid": "1664864380288048:10810",
+            "name": "Files/File_1680335825208331_103968",
+            "flags": 1
+        }
+    },
+    "1680335825208331:103968": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208331_103968"
+        }
+    },
+    "1680335825208332:103969": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208332_103969.lsmat"
+        }
+    }
+}

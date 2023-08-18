@@ -2,8 +2,7 @@
     "lens_id": "",
     "document_id": "KE1-3JyQHS97FaPX55Mo",
     "original_document_id": "KE1-3JyQHS97FaPX55Mo",
-    "version": "29",
-    "lastChanged": "1664864845180",
+    "version": "33",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -22,95 +21,242 @@
         "lastSavedWith": {
             "type": "Public",
             "major": "4",
-            "minor": "28",
-            "patch": "1",
+            "minor": "53",
+            "patch": "0",
             "build": "0"
         }
     },
     "view": {
-        "ResourceUiComponent": {
-            "collapsedList": [
-                [
-                    [
-                        "Echopark"
-                    ],
-                    [
-                        "Echopark",
-                        "Diff"
-                    ],
-                    [
-                        "Echopark",
-                        "Specular"
-                    ],
-                    [
-                        "Font"
-                    ],
-                    [
-                        "Font",
-                        "DaysOne-Regular"
-                    ],
-                    [
-                        "Gizmo Renderer"
-                    ],
-                    [
-                        "Gizmo Renderer",
-                        "Unlit"
-                    ],
-                    [
-                        "Materials"
-                    ],
-                    [
-                        "Materials",
-                        "ui"
-                    ],
-                    [
-                        "Materials",
-                        "ui",
-                        "red"
-                    ],
-                    [
-                        "Prefab",
-                        "ui",
-                        "ui_line"
-                    ],
-                    [
-                        "Scripts",
-                        "EarlyLogger"
-                    ],
-                    [
-                        "Scripts",
-                        "GraphViewLogic"
-                    ],
-                    [
-                        "Scripts",
-                        "LateLogger"
-                    ],
-                    [
-                        "Scripts",
-                        "PerfMenuViewLogic"
-                    ],
-                    [
-                        "Scripts",
-                        "PerformanceManager"
-                    ]
-                ]
-            ]
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                },
+                "1651740821321039:38503": {
+                    "longitude": "-0.13170607388019562",
+                    "latitude": "51.512580871582031",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Dean Street And Romily",
+                    "pinUid": "1651740821320812:38502",
+                    "locationAsset": "1651740821321523:38504"
+                },
+                "1651744904534351:1306090": {
+                    "longitude": "-0.13159231841564178",
+                    "latitude": "51.512386322021484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1651744904534135:1306089",
+                    "locationAsset": "1651744904535003:1306091"
+                },
+                "1652347539892906:46549": {
+                    "longitude": "-0.085821650922298431",
+                    "latitude": "51.528266906738281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1652347539892395:46548",
+                    "locationAsset": "1652347539893864:46550"
+                },
+                "1653297295919937:563039": {
+                    "longitude": "-0.12685032188892365",
+                    "latitude": "51.507827758789062",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297295919457:563038",
+                    "locationAsset": "1653297295921503:563046"
+                },
+                "1653297493220826:286071": {
+                    "longitude": "-0.12681996822357178",
+                    "latitude": "51.515045166015625",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297493220620:286070",
+                    "locationAsset": "1653297493221647:286072"
+                },
+                "1653297815414767:678204": {
+                    "longitude": "-0.12326952069997787",
+                    "latitude": "51.509716033935547",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297815414537:678203",
+                    "locationAsset": "1653297815415381:678205"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            },
+            "mapCurrentCity": "0"
         },
-        "SceneTreeUiComponent": {
-            "collapsedList": [
-                [
-                    "1517446348227994:84813"
-                ]
-            ],
-            "selectionSetList": ""
-        },
+        "Material::UiComponent": "",
         "MetaInfoUIComponent": {
-            "hints": "",
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
             "lens": "Untitled",
             "applicability": "3",
-            "lens_descriptors": "",
+            "compatibility_descriptors": [
+                "mobile",
+                "web"
+            ],
+            "lens_descriptors": [
+                "EXPERIMENTAL_API"
+            ],
+            "sg": "false",
+            "git_friendly": "true",
+            "activation_camera": "front",
             "Spectacles2021UseAllowed": "false"
         },
+        "ObjectTracking3DUIComponent": "",
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
@@ -118,6 +264,7 @@
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
+            "input_stream_type": "InteractiveEnvironment",
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
                 "back_preview_is_favorite": "false",
@@ -135,320 +282,33 @@
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
                 "front_preview_is_favorite": "false"
+            },
+            "ie_saved_device_transformation": {
+                "eulerRotation": {
+                    "x": "-27.7010345",
+                    "y": "4.36619377",
+                    "z": "0"
+                },
+                "translation": {
+                    "x": "0",
+                    "y": "0",
+                    "z": "0"
+                }
             }
         },
-        "InspectorUiComponent": {
-            "collapsedList": [
-                ""
-            ]
-        },
-        "ObjectTracking3DUIComponent": {
-            "foldedOwnerSceneObjects": ""
-        },
-        "MapUiComponent": {
-            "mapPinPoints": ""
-        },
-        "Material::UiComponent": {
-            "active_graph_asset": "1664864380288048:10810"
-        },
-        "Script::UiComponent": {
-            "active_graph_asset": "-1:-1"
-        },
-        "VFX::UiComponent": {
-            "active_graph_asset": "-1:-1"
-        }
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
     },
     "model": {
+        "IFileManager": "",
         "IResourceManager": {
-            "list": [
-                {
-                    "resId": "1",
-                    "uid": "1:1",
-                    "name": "Camera Output",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "2",
-                    "uid": "2:2",
-                    "name": "Camera Input",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "10",
-                    "uid": "1588296316843646:534374",
-                    "name": "Files\/File3.jpeg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "11",
-                    "uid": "1588296316857901:534385",
-                    "name": "Files\/File5.jpeg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "12",
-                    "uid": "8675309:9035768",
-                    "name": "Physics Root World Settings Asset",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "13",
-                    "uid": "1664864380057611:10704",
-                    "name": "Files\/File8.ttf",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "14",
-                    "uid": "1664864380074358:10716",
-                    "name": "Files\/File9",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "15",
-                    "uid": "1664864380196378:10732",
-                    "name": "Files\/File11.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "16",
-                    "uid": "1664864380209886:10744",
-                    "name": "Files\/File12.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "17",
-                    "uid": "1664864380219350:10754",
-                    "name": "Files\/File13.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "18",
-                    "uid": "1664864380230282:10766",
-                    "name": "Files\/File14.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "19",
-                    "uid": "1664864380288048:10810",
-                    "name": "Files\/File16",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "20",
-                    "uid": "1664864380487779:10829",
-                    "name": "sceneObject_0",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "21",
-                    "uid": "1664864475438473:55209",
-                    "name": "Files\/File19.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "22",
-                    "uid": "1664864478620377:61075",
-                    "name": "Files\/File20.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                }
-            ],
             "MaterialUpdateManager": {
                 "unrecognizedMaterials": ""
             }
         },
-        "InspectorComponent": {
-            "Component": {
-                "EyeColorVisual": {
-                    "uidData": "",
-                    "generalData": ""
-                },
-                "FaceStretchVisual": {
-                    "uidsToFeatureNamesWithIntensity": ""
-                },
-                "ScreenTransform": {
-                    "uidData": [
-                        {
-                            "k": "1664864380557985:10885",
-                            "v": {
-                                "isBasicMode": "false",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
-                            "k": "1664864380614348:11153",
-                            "v": {
-                                "isBasicMode": "false",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
-                            "k": "1664864380633932:11287",
-                            "v": {
-                                "isBasicMode": "false",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
-                            "k": "1664864380662887:11551",
-                            "v": {
-                                "isBasicMode": "false",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
-                            "k": "1664864380675766:11683",
-                            "v": {
-                                "isBasicMode": "false",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
-                            "k": "1664864380690283:11823",
-                            "v": {
-                                "isBasicMode": "false",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
-                            "k": "1664864380705298:11967",
-                            "v": {
-                                "isBasicMode": "false",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
-                            "k": "1664864380716181:12107",
-                            "v": {
-                                "isBasicMode": "false",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
-                            "k": "1664864380727260:12234",
-                            "v": {
-                                "isBasicMode": "false",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        }
-                    ],
-                    "generalData": ""
-                }
-            }
-        },
-        "RenderOrderComponent": {
-            "autoRenderOrder": {
-                "0": "1517446348227994:84813",
-                "1": "1517446348228144:84822",
-                "2": "1528843813151434:5126",
-                "3": "1664864380556692:10879",
-                "4": "1664864380557318:10881",
-                "5": "1664864380557656:10883",
-                "6": "1664864380596927:11017",
-                "7": "1664864380613849:11151",
-                "8": "1664864380633461:11285",
-                "9": "1664864380674914:11679",
-                "10": "1664864380675375:11681",
-                "11": "1664864380689627:11821",
-                "12": "1664864380704737:11965",
-                "13": "1664864390398058:14753",
-                "14": "1664864417205179:23240",
-                "15": "1664864503059511:79906",
-                "16": "1664864566930633:127087"
-            }
-        },
+        "InspectorComponent": "",
         "LayerComponent": {
             "nextLayerId": "3",
             "showOrthographicLayer": "false",
@@ -473,802 +333,27 @@
                 }
             ]
         },
-        "IFileManager": {
-            "pathes": [
-                {
-                    "k": "3",
-                    "v": "Files\/File3.jpeg"
-                },
-                {
-                    "k": "4",
-                    "v": "Files\/File4.jpeg"
-                },
-                {
-                    "k": "5",
-                    "v": "Files\/File5.jpeg"
-                },
-                {
-                    "k": "6",
-                    "v": "Files\/File6.jpeg"
-                },
-                {
-                    "k": "7",
-                    "v": "Files\/File7.hdr"
-                },
-                {
-                    "k": "8",
-                    "v": "Files\/File8.ttf"
-                },
-                {
-                    "k": "9",
-                    "v": "Files\/File9"
-                },
-                {
-                    "k": "10",
-                    "v": "Files\/File10.lsmat"
-                },
-                {
-                    "k": "11",
-                    "v": "Files\/File11.js"
-                },
-                {
-                    "k": "12",
-                    "v": "Files\/File12.js"
-                },
-                {
-                    "k": "13",
-                    "v": "Files\/File13.js"
-                },
-                {
-                    "k": "14",
-                    "v": "Files\/File14.js"
-                },
-                {
-                    "k": "15",
-                    "v": "Files\/File15.lsc"
-                },
-                {
-                    "k": "16",
-                    "v": "Files\/File16"
-                },
-                {
-                    "k": "17",
-                    "v": "Files\/File17.lsmat"
-                },
-                {
-                    "k": "18",
-                    "v": "Files\/File18.oprfb"
-                },
-                {
-                    "k": "19",
-                    "v": "Files\/File19.js"
-                },
-                {
-                    "k": "20",
-                    "v": "Files\/File20.js"
-                },
-                {
-                    "k": "21",
-                    "v": "Files\/File21.oprfb"
-                }
-            ]
-        },
         "RemoteApi::ModelManager": {
             "api_specs": ""
         },
+        "RenderOrderComponent": "",
         "WorldComponent": {
-            "sceneFile": "scene.scn",
-            "sceneType": "binaryScene",
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
             "hitTestDisabledObjectsList": {
                 "type_name": "array"
             }
         }
     },
     "controller": {
-        "IResourceController": {
-            "public": {
-                "pathes": [
-                    {
-                        "k": "967",
-                        "v": "Echopark.hdr"
-                    },
-                    {
-                        "k": "968",
-                        "v": "Font"
-                    },
-                    {
-                        "k": "969",
-                        "v": "Font\/DaysOne-Regular.ttf"
-                    },
-                    {
-                        "k": "970",
-                        "v": "Materials"
-                    },
-                    {
-                        "k": "971",
-                        "v": "Materials\/ui"
-                    },
-                    {
-                        "k": "972",
-                        "v": "Materials\/ui\/red.lsmat"
-                    },
-                    {
-                        "k": "973",
-                        "v": "Scripts"
-                    },
-                    {
-                        "k": "975",
-                        "v": "Scripts\/PerformanceManager.js"
-                    },
-                    {
-                        "k": "977",
-                        "v": "Scripts\/PerfMenuViewLogic.js"
-                    },
-                    {
-                        "k": "978",
-                        "v": "Scripts\/GraphViewLogic.js"
-                    },
-                    {
-                        "k": "979",
-                        "v": "Gizmo Renderer.lsc"
-                    },
-                    {
-                        "k": "980",
-                        "v": "Gizmo Renderer.lsc\/Script0.js"
-                    },
-                    {
-                        "k": "981",
-                        "v": "..\/AdditionalFiles\/Gizmo Renderer\/Unlit.lsmat"
-                    },
-                    {
-                        "k": "982",
-                        "v": "Prefab"
-                    },
-                    {
-                        "k": "983",
-                        "v": "Prefab\/ui"
-                    },
-                    {
-                        "k": "984",
-                        "v": "Prefab\/ui\/ui_line.oprfb"
-                    },
-                    {
-                        "k": "985",
-                        "v": "Scripts\/EarlyLogger.js"
-                    },
-                    {
-                        "k": "986",
-                        "v": "Scripts\/LateLogger.js"
-                    }
-                ],
-                "hashes": [
-                    {
-                        "k": "1",
-                        "v": "671afbc1d6810060ccbaac866a91cfa1"
-                    },
-                    {
-                        "k": "2",
-                        "v": "8e599835d0d45c5879eafb1f474469cd"
-                    },
-                    {
-                        "k": "967",
-                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
-                    },
-                    {
-                        "k": "969",
-                        "v": "2ee3184faa4447038f4e0645cc0ca73a"
-                    },
-                    {
-                        "k": "972",
-                        "v": "70f1434fe88766458b44ae040fd3c317"
-                    },
-                    {
-                        "k": "975",
-                        "v": "5dcb1afb75104128e214b9c2b3bf897b"
-                    },
-                    {
-                        "k": "977",
-                        "v": "5fe295ed3ac56dc1f926e616217f8a6c"
-                    },
-                    {
-                        "k": "978",
-                        "v": "df6f528f480cc517e6268bbe4478f56d"
-                    },
-                    {
-                        "k": "979",
-                        "v": "710db554262ca2845d76d6f54c1f7ed6"
-                    },
-                    {
-                        "k": "980",
-                        "v": "6dc8573a8b55ae92b60034e109433fdd"
-                    },
-                    {
-                        "k": "981",
-                        "v": "655e410d5db021ab58d9e7ba57251bd8"
-                    },
-                    {
-                        "k": "984",
-                        "v": "9a4fe8f1eb9437fd89a909763a7a1a8b"
-                    },
-                    {
-                        "k": "985",
-                        "v": "83b395c9b1a4dd8ea8ffbc6de89e5a71"
-                    },
-                    {
-                        "k": "986",
-                        "v": "ec8a1ad20db53f633505a2aea196e88b"
-                    }
-                ],
-                "publicState": {
-                    "tree": {
-                        "isFolder": "true",
-                        "lastModified": "2022-10-03T23:19:41",
-                        "name": "Public",
-                        "hash": "1f93293c2f8a7a8b21379b9b2a110b24",
-                        "children": [
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-09-05T21:40:54",
-                                "name": "Echopark.hdr",
-                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-09-05T21:40:54",
-                                "name": "folder.lock",
-                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2022-10-03T23:19:40",
-                                "name": "Font",
-                                "hash": "01a31ad2eac045498f0201666a4dcd1f",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-10-03T23:19:39",
-                                        "name": "DaysOne-Regular.ttf",
-                                        "hash": "2ee3184faa4447038f4e0645cc0ca73a",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-10-03T23:19:40",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2022-10-03T23:19:41",
-                                "name": "Gizmo Renderer.lsc",
-                                "hash": "710db554262ca2845d76d6f54c1f7ed6",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2022-10-03T23:19:40",
-                                "name": "Materials",
-                                "hash": "9d6a1f97791f1248d7481c110975a82d",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-10-03T23:19:40",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2022-10-03T23:19:41",
-                                        "name": "ui",
-                                        "hash": "4b6d4bea064c912d83e0b8cb909d997d",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-03T23:19:40",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-03T23:19:41",
-                                                "name": "red.lsmat",
-                                                "hash": "70f1434fe88766458b44ae040fd3c317",
-                                                "children": ""
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2022-10-03T23:19:40",
-                                "name": "Prefab",
-                                "hash": "66b649cbfae858e7b9ad71604a48f9aa",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-10-03T23:19:40",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2022-10-03T23:19:40",
-                                        "name": "ui",
-                                        "hash": "76564b0540f25510792c0acf3068dd22",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-03T23:19:40",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2022-10-03T23:19:40",
-                                                "name": "ui_line.oprfb",
-                                                "hash": "9a4fe8f1eb9437fd89a909763a7a1a8b",
-                                                "children": ""
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2022-10-03T23:21:18",
-                                "name": "Scripts",
-                                "hash": "fc5ead4a44e0d80b1e3a847b4be08951",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-09-20T10:33:17",
-                                        "name": "EarlyLogger.js",
-                                        "hash": "83b395c9b1a4dd8ea8ffbc6de89e5a71",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-10-03T23:19:40",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-10-03T23:19:39",
-                                        "name": "GraphViewLogic.js",
-                                        "hash": "df6f528f480cc517e6268bbe4478f56d",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-09-20T10:33:17",
-                                        "name": "LateLogger.js",
-                                        "hash": "ec8a1ad20db53f633505a2aea196e88b",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-10-03T23:24:31",
-                                        "name": "PerfMenuViewLogic.js",
-                                        "hash": "5fe295ed3ac56dc1f926e616217f8a6c",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-10-03T23:19:39",
-                                        "name": "PerformanceManager.js",
-                                        "hash": "5dcb1afb75104128e214b9c2b3bf897b",
-                                        "children": ""
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                },
-                "complexResources": ""
-            },
-            "tree": {
-                "name": "",
-                "type": "0",
-                "subtype": "-1",
-                "resourceId": "-1",
-                "dependency": "0",
-                "hidden": "false",
-                "uid": "-1:-1",
-                "fileId": "18446744073709551615",
-                "originalId": "18446744073709551615",
-                "publicId": "18446744073709551615",
-                "source": "",
-                "additional": "",
-                "resources": [
-                    {
-                        "name": "Render Target",
-                        "type": "1",
-                        "subtype": "1",
-                        "resourceId": "1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1:1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Device Camera Texture",
-                        "type": "1",
-                        "subtype": "3",
-                        "resourceId": "2",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "2:2",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Physics Root World Settings",
-                        "type": "36",
-                        "subtype": "1",
-                        "resourceId": "12",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "8675309:9035768",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Echopark",
-                        "type": "9",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "7",
-                        "originalId": "18446744073709551615",
-                        "publicId": "967",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "Diff",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "10",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "1588296316843646:534374",
-                                "fileId": "3",
-                                "originalId": "4",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "Specular",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "11",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "1588296316857901:534385",
-                                "fileId": "5",
-                                "originalId": "6",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Font",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "968",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "DaysOne-Regular",
-                                "type": "13",
-                                "subtype": "0",
-                                "resourceId": "13",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1664864380057611:10704",
-                                "fileId": "8",
-                                "originalId": "18446744073709551615",
-                                "publicId": "969",
-                                "source": "C:\/Users\/Kater\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioZoaPgbZIcARr\/\/system\/\/emergencyFiles\/emergencyTtf.ttf",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Materials",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "970",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "ui",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "971",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "red",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "14",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1664864380074358:10716",
-                                        "fileId": "9",
-                                        "originalId": "10",
-                                        "publicId": "972",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Scripts",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "973",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "PerformanceManager",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "15",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1664864380196378:10732",
-                                "fileId": "11",
-                                "originalId": "18446744073709551615",
-                                "publicId": "975",
-                                "source": "C:\/Users\/Kater\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioZoaPgbZIcARr\/\/system\/\/emergencyFiles\/emergencyJs.js",
-                                "additional": ""
-                            },
-                            {
-                                "name": "PerfMenuViewLogic",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "16",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1664864380209886:10744",
-                                "fileId": "12",
-                                "originalId": "18446744073709551615",
-                                "publicId": "977",
-                                "source": "C:\/Users\/Kater\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioZoaPgbZIcARr\/\/system\/\/emergencyFiles\/emergencyJs.js",
-                                "additional": ""
-                            },
-                            {
-                                "name": "GraphViewLogic",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "17",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1664864380219350:10754",
-                                "fileId": "13",
-                                "originalId": "18446744073709551615",
-                                "publicId": "978",
-                                "source": "C:\/Users\/Kater\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioZoaPgbZIcARr\/\/system\/\/emergencyFiles\/emergencyJs.js",
-                                "additional": ""
-                            },
-                            {
-                                "name": "EarlyLogger",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "21",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1664864475438473:55209",
-                                "fileId": "19",
-                                "originalId": "18446744073709551615",
-                                "publicId": "985",
-                                "source": "C:\/git\/olr\/Public\/Scripts\/Controller\/EarlyLogger.js",
-                                "additional": ""
-                            },
-                            {
-                                "name": "LateLogger",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "22",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1664864478620377:61075",
-                                "fileId": "20",
-                                "originalId": "18446744073709551615",
-                                "publicId": "986",
-                                "source": "C:\/git\/olr\/Public\/Scripts\/Controller\/LateLogger.js",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Gizmo Renderer",
-                        "type": "32",
-                        "subtype": "0",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "hidden": "false",
-                        "uid": "1647394554239998:85027",
-                        "fileId": "18446744073709551615",
-                        "originalId": "15",
-                        "publicId": "979",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "Script0",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "18",
-                                "dependency": "0",
-                                "hidden": "true",
-                                "uid": "1664864380230282:10766",
-                                "fileId": "14",
-                                "originalId": "18446744073709551615",
-                                "publicId": "980",
-                                "source": "C:\/Users\/Kater\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioZoaPgbZIcARr\/\/system\/\/emergencyFiles\/emergencyJs.js",
-                                "additional": ""
-                            },
-                            {
-                                "name": "Unlit",
-                                "type": "2",
-                                "subtype": "1",
-                                "resourceId": "19",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "1664864380288048:10810",
-                                "fileId": "16",
-                                "originalId": "17",
-                                "publicId": "981",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Prefab",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "982",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "ui",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "983",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "ui_line",
-                                        "type": "12",
-                                        "subtype": "-1",
-                                        "resourceId": "20",
-                                        "dependency": "0",
-                                        "hidden": "false",
-                                        "uid": "1664864380487779:10829",
-                                        "fileId": "18",
-                                        "originalId": "21",
-                                        "publicId": "984",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            }
+        "AssetImportController": {
+            "itemUidToID": ""
         },
-        "InspectorController": {
-            "selection": ""
+        "DigitalGoodsController": {
+            "digital_goods": ""
         },
-        "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "34": ""
-        },
+        "IResourceController": "",
+        "InspectorController": "",
         "ObjectPrefabController": {
             "state": {
                 "objectToInfo": ""
@@ -1278,12 +363,7 @@
         "ObjectTracking3DController": {
             "hand_tracking_mode": "0"
         },
-        "Compression::IController": {
-            "new_compression_info": ""
-        },
-        "AssetImportController": {
-            "itemUidToID": ""
-        }
+        "ScriptModulesController": ""
     },
     "templateName": "Empty Project",
     "templateUrl": "Lens Studio version 4.28.1"

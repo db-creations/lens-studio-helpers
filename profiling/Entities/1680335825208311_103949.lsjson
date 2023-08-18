@@ -1,0 +1,38 @@
+{
+    "1664864380219350:10754": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1680335825208311:103949": {
+        "IResourceController": {
+            "name": "GraphViewLogic",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664864380219350:10754",
+            "fileId": "1680335825208328:103965",
+            "publicId": "1692384679256615:167255",
+            "expected_hash": "df6f528f480cc517e6268bbe4478f56d"
+        },
+        "IResourceManager": {
+            "uid": "1664864380219350:10754",
+            "name": "Files/File_1680335825208328_103965.js",
+            "flags": 1
+        }
+    },
+    "1680335825208328:103965": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208328_103965.js"
+        }
+    },
+    "1692384679256615:167255": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/GraphViewLogic.js",
+                "hash": "df6f528f480cc517e6268bbe4478f56d"
+            }
+        }
+    }
+}

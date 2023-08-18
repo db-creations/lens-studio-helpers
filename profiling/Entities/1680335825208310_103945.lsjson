@@ -1,0 +1,33 @@
+{
+    "1680335825208310:103945": {
+        "IResourceController": {
+            "name": "DaysOne-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664864380057611:10704",
+            "fileId": "1680335825208324:103960",
+            "publicId": "1692384679250537:167248",
+            "expected_hash": "2ee3184faa4447038f4e0645cc0ca73a"
+        },
+        "IResourceManager": {
+            "uid": "1664864380057611:10704",
+            "name": "Files/File_1680335825208324_103960.ttf",
+            "flags": 1
+        }
+    },
+    "1680335825208324:103960": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208324_103960.ttf"
+        }
+    },
+    "1692384679250537:167248": {
+        "IResourceController": {
+            "public": {
+                "path": "Font/DaysOne-Regular.ttf",
+                "hash": "2ee3184faa4447038f4e0645cc0ca73a"
+            }
+        }
+    }
+}

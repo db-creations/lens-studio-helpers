@@ -1,0 +1,38 @@
+{
+    "1664864380196378:10732": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1680335825208310:103947": {
+        "IResourceController": {
+            "name": "PerformanceManager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664864380196378:10732",
+            "fileId": "1680335825208327:103963",
+            "publicId": "1692384679254442:167253",
+            "expected_hash": "5dcb1afb75104128e214b9c2b3bf897b"
+        },
+        "IResourceManager": {
+            "uid": "1664864380196378:10732",
+            "name": "Files/File_1680335825208327_103963.js",
+            "flags": 1
+        }
+    },
+    "1680335825208327:103963": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208327_103963.js"
+        }
+    },
+    "1692384679254442:167253": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/PerformanceManager.js",
+                "hash": "5dcb1afb75104128e214b9c2b3bf897b"
+            }
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1692384457514045:102977"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Echopark"
+                ],
+                [
+                    "Echopark",
+                    "Diff"
+                ],
+                [
+                    "Echopark",
+                    "Specular"
+                ],
+                [
+                    "Font"
+                ],
+                [
+                    "Font",
+                    "DaysOne-Regular"
+                ],
+                [
+                    "Gizmo Renderer"
+                ],
+                [
+                    "Materials"
+                ],
+                [
+                    "Materials",
+                    "ui"
+                ],
+                [
+                    "Materials",
+                    "ui",
+                    "red Graph"
+                ],
+                [
+                    "Prefab",
+                    "ui",
+                    "ui_line"
+                ],
+                [
+                    "Scripts",
+                    "EarlyLogger"
+                ],
+                [
+                    "Scripts",
+                    "GraphViewLogic"
+                ],
+                [
+                    "Scripts",
+                    "LateLogger"
+                ],
+                [
+                    "Scripts",
+                    "PerfMenuViewLogic"
+                ],
+                [
+                    "Scripts",
+                    "PerformanceManager"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "1517446348227994:84813"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {}
+    },
+    "InspectorController": {
+        "selection": {
+            "resources": [
+                [
+                    "1664864380196378:10732",
+                    [
+                        "Scripts",
+                        "PerformanceManager"
+                    ]
+                ]
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {},
+    "ScriptModulesController": {}
+}

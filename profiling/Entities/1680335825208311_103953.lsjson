@@ -1,0 +1,38 @@
+{
+    "1664864475438473:55209": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1680335825208311:103953": {
+        "IResourceController": {
+            "name": "EarlyLogger",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664864475438473:55209",
+            "fileId": "1680335825208334:103971",
+            "publicId": "1692384679257502:167256",
+            "expected_hash": "83b395c9b1a4dd8ea8ffbc6de89e5a71"
+        },
+        "IResourceManager": {
+            "uid": "1664864475438473:55209",
+            "name": "Files/File_1680335825208334_103971.js",
+            "flags": 1
+        }
+    },
+    "1680335825208334:103971": {
+        "IFileManager": {
+            "path": "Files/File_1680335825208334_103971.js"
+        }
+    },
+    "1692384679257502:167256": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/EarlyLogger.js",
+                "hash": "83b395c9b1a4dd8ea8ffbc6de89e5a71"
+            }
+        }
+    }
+}
